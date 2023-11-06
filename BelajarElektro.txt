@@ -1,3 +1,4 @@
 1.mengenal komponen dan arus
 2.menganalisa tegangan dan arus listrik
 3.menyambungkan komponen dengan arus yg tepat
+4.Diberi sedikit penegenalan arus lemah dan kuat
